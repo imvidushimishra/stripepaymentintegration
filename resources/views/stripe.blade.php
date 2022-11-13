@@ -19,9 +19,10 @@
 </head>
 <body>
     <div class="container">
-        <div class="row">
+        <div class="row mt-5">
             <div class="col">
-                <a href="https://connect.stripe.com/express/oauth/authorize?response_type=code&client_id=ca_Mjsj3jo9RDhdm5rpVzEGLLwRlpxwxy1N" class="btn btn-success" target="_blank">Connect To Stripe Account</a>
+                <a href="https://connect.stripe.com/express/oauth/authorize?response_type=code&client_id=ca_Mjsj3jo9RDhdm5rpVzEGLLwRlpxwxy1N" class="btn btn-success" target="_blank">
+                    Connect To Stripe Account</a>
             </div>
         </div>
     </div>
